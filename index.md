@@ -4,7 +4,7 @@
 1. Use the paste (pad) button in action bar to paste a deeplink copied in clipboard instead of manually pasting deeplink in relevant `AutoCompleteTextView`.
 
 
-![Figure 1-1](https://github.com/slashrootv200/deeplinktester/blob/master/deeplinks.png?raw=true "Figure 1-1")
+![Figure 1-1](https://github.com/slashrootv200/deeplinktester/blob/master/deeplinks.png?raw=true =100x "Figure 1-1")
 
 ### deeplink-json
 
