@@ -44,8 +44,8 @@ This json is hosted @ [https://api.myjson.com/bins/aclrv](https://api.myjson.com
 1. Click on fetch json
 1. Now the Deeplink Tester app is configured to autocomplete the relevant deeplink paths / hosts / schemes and even query params if provided in the json.
 
-That's it now deeplink tested is configured to test vimeo android app. You can create jsons for the app you are testing as you would know all the possible values of schemes, hosts, paths and query params for your app. Host the json @ [http://myjson.com/](http://myjson.com/) and then use it to configure the Deeplink tester for your app.
+That's it. The `deeplink tester` is configured to test vimeo android app deeplinks. You can create jsons for the app you are testing as you would know all the possible values of schemes, hosts, paths and query params for your app. Host the json @ [http://myjson.com/](http://myjson.com/) and then use it to configure the `Deeplink tester` for your app.
 
 ### Tip
 
-Use the deeplink tester with [Push Bullet](https://play.google.com/store/apps/details?id=com.pushbullet.android) android app. This app makes it easy to send deeplinks from your workstation (chrome browser) to you android device, which can then be easily copied and paste in the `Deeplink Tester` app using the `paste icon`
+Use the deeplink tester with [Push Bullet](https://play.google.com/store/apps/details?id=com.pushbullet.android) android app. This app makes it easy to send deeplinks from your workstation (chrome browser) to you android device, which can then be easily copied and paste in the `Deeplink Tester` app using the `paste icon` from action bar.
