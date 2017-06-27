@@ -37,14 +37,14 @@ Below is a sample deeplink json for `vimeo` [android app](https://play.google.co
   ]
 }
 ```
-This json is hosted @ https://api.myjson.com/bins/aclrv. 
+This json is hosted @ [https://api.myjson.com/bins/aclrv](https://api.myjson.com/bins/aclrv). 
 1. Copy this URL
 1. Tap on the cloud (download icon)
 1. A dialog having EditText opens. Paste this URL in the EditText
 1. Click on fetch json
 1. Now the Deeplink Tester app is configured to autocomplete the relevant deeplink paths / hosts / schemes and even query params if provided in the json.
 
-That's it now deeplink tested is configured to test vimeo android app. You can create jsons for the app you are testing as you would know all the possible values of schemes, hosts, paths and query params for your app. Host the json @ http://myjson.com/ and then use it to configure the Deeplink tester for your app.
+That's it now deeplink tested is configured to test vimeo android app. You can create jsons for the app you are testing as you would know all the possible values of schemes, hosts, paths and query params for your app. Host the json @ [http://myjson.com/](http://myjson.com/) and then use it to configure the Deeplink tester for your app.
 
 ### Tip
 
